@@ -1,0 +1,17 @@
+# YAML
+- name: Alice
+  cur_salary: 100000
+  mrp: 113000
+  rating: 3
+- name: Bob
+  cur_salary: 90000
+  mrp: 94000
+  rating: 2
+- name: Carl
+  cur_salary: 89000
+  mrp: 94000
+  rating: 4
+- name: Dan
+  cur_salary: 165000
+  mrp: 200000
+  rating: 3 
